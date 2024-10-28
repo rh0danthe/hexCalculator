@@ -11,7 +11,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/io/ConsoleIO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/io/ConsoleIO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/io/FileIO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/io/FileIO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/io/interfaces/IO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/io/interfaces/IO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/services/CalculateService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/services/CalculateService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/utils/Calculator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/utils/Calculator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/utils/Validator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/utils/Validator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +75,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
@@ -80,9 +90,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="MainKt" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="untitled.main" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Рита\Downloads\aa.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730040134976</updated>
       <workItem from="1730040136088" duration="13356000" />
-      <workItem from="1730125107583" duration="2215000" />
+      <workItem from="1730125107583" duration="8389000" />
     </task>
     <servers />
   </component>
@@ -110,7 +121,7 @@
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/services/CalculateService.kt</url>
           <line>12</line>
-          <option name="timeStamp" value="7" />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

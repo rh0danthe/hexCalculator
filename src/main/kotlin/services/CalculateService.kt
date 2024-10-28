@@ -9,8 +9,8 @@ class CalculateService(private val io: IO) {
     private val calculator = Calculator()
 
     fun execute(){
-        val expression = io.read()
-        val parts = validator.validateExpression(expression)
+        val expressions = io.read()
+        val parts = validator.validateExpression(expressions)
         val result = calculator.calculate(parts)
         io.write(result)
     }
